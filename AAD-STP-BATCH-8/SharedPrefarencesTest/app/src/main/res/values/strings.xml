@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPrefarencesTest</string>
+    <string name="enter_the_user_name">Enter the user name</string>
+    <string name="enter_the_user_password">Enter the user password</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/setting"
+    android:title="Setting"
+    />
+    <item
+        app:showAsAction="never"
+        android:title="Favorites"
+        android:id="@+id/favorites"/>
+    <item
+        app:showAsAction="ifRoom"
+        android:title="Add"
+        android:id="@+id/add"
+        android:icon="@mipmap/add"/>
+    <item
+        app:showAsAction="always"
+        android:title="Search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:id="@+id/search"/>
+
+
+</menu>

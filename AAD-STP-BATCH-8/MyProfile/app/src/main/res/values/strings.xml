@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="about_me">Personal Information</string>
+    <string name="about">PersonalInfo</string>
+    <string name="personaldata">
+        devianusha.n@apssdc.in\n www.google.com\n 9874561234
+        </string>
+</resources>

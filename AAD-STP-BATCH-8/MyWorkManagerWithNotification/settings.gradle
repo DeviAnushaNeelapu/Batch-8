@@ -1,0 +1,2 @@
+rootProject.name='MyWorkManagerWithNotification'
+include ':app'

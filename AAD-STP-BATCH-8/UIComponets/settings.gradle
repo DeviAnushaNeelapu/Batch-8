@@ -1,0 +1,2 @@
+rootProject.name='UIComponets'
+include ':app'
